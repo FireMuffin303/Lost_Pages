@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "lostpages:blocks/enchanted_crafting_table_front",
+		"north": "lostpages:blocks/enchanted_crafting_table_front",
+		"south": "lostpages:blocks/enchanted_crafting_table_side",
+		"east": "lostpages:blocks/enchanted_crafting_table_side",
+		"west": "lostpages:blocks/enchanted_crafting_table_front",
+		"up": "lostpages:blocks/enchanted_crafting_table_top",
+		"down": "minecraft:blocks/obsidian"
+	}
+}
