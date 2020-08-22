@@ -3,8 +3,7 @@
   "item.lostpages.banana": "Banana",
   "item.lostpages.golden_banana": "Golden Banana",
   "item.lostpages.enderdragon_wing": "Enderdragon Wing",
+  "item.lostpages.milk_bottle":"Milk Bottle",
   "block.lostpages.enchanted_crafting_table": "Enchanted Crafting Table",
-  "itemGroup.lp_block": "Blocks",
-  "itemGroup.lp_meterials": "Meterials",
-  "itemGroup.lp_food": "Foods"
+  "itemGroup.lost_pages": "Lost Pages"
 }
